@@ -1,0 +1,49 @@
+body{
+
+    #lgl
+    {
+    text-align: center;
+    font-size: 150px;
+    color:rgb(61, 60, 60);
+    margin:6cm ;
+    }
+    #sb
+    {
+        width: 55%;
+        padding: 10px 15px;
+        border: 4px solid rgb(63, 63, 63);
+        border-radius: 50px;
+        background-color: transparent;
+        margin: -3cm 13cm;
+    }
+    #btn
+    {
+     background-color: #454545;
+      border: none;
+      color: rgb(252, 252, 252);
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      border-radius: 50px;
+      font-size: 16px;
+      margin: -1cm 27cm ;
+      cursor: pointer;
+      
+    }
+    #lgl2
+    {
+        text-align: left;
+        font-size: 150px;
+        color:rgb(61, 60, 60);
+        margin: -1cm 0.2cm;
+    }
+    #sb2
+    {
+        width: 55%;
+        padding: 10px 15px;
+        border: 4px solid rgb(63, 63, 63);
+        border-radius: 50px;
+        background-color: transparent;
+        margin: 1cm 0cm;
+    }
+    }
