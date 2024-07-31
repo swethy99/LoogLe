@@ -1,0 +1,64 @@
+body {
+    background-color: rgb(196, 245, 252);
+ 
+}
+
+.header {
+    font-size: 80px;
+    color: rgb(50, 50, 54);
+    padding: 20px;
+    text-align: center;
+    margin-top: -3cm;
+}
+
+#container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#bar1 {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    max-width: 600px;
+    padding: 12px 20px;
+    border: 2px solid rgb(50, 50, 54);
+    border-radius: 50px;
+    background-color: rgb(196, 245, 252);
+    margin-top: -3cm;
+}
+#bar1 input[type="text"] {
+    flex: 1;
+    border: none;
+    outline: none;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 50px;
+    background-color: rgb(196, 245, 252); 
+}
+
+#but {
+    border-radius: 50px;
+    cursor: pointer;
+    background-color: rgb(50, 50, 54);
+    color: rgb(196, 245, 252);
+    width: 150px;
+    text-align:center;
+    
+}
+
+#but1 {
+    border-radius: 50px;
+    cursor: pointer;
+    background-color: rgb(50, 50, 54);
+    color: rgb(196, 245, 252);
+    width: 100%;
+    text-align:left;
+    margin-bottom: 20px;
+    font-size: 20px;
+    padding: 15px;
+    
+    
+}
+
+
